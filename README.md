@@ -63,7 +63,7 @@ The app follows a loosely coupled MVVM pattern:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/vibeevent-flutter.git
+git clone https://github.com/sukanyaghosh74/vibeevent-flutter.git
 cd vibeevent-flutter
 ```
 
