@@ -5,3 +5,4 @@ class Poll {
 
   Poll({required this.question, required this.options});
 }
+// fix edit
