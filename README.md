@@ -126,7 +126,7 @@ lib/
 Built with ❤️ by:
 
 Sukanya Ghosh
-Flutter Developer | VIT Civil Engineering '24
+Developer | VIT Civil Engineering '24
 🔗 GitHub: github.com/sukanyaghosh74
 🔗 LinkedIn: linkedin.com/in/sukanya-ghosh-706129274/
 
