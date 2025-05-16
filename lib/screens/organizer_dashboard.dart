@@ -42,3 +42,4 @@ class _OrganizerDashboardState extends State<OrganizerDashboard> {
     );
   }
 }
+// fix edit
